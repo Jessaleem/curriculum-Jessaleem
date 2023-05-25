@@ -85,3 +85,7 @@ h1 {
   font-size: 22px;
   font-weight: 700;
 }
+
+.curriculum-redir {
+  cursor: pointer;
+}
